@@ -1,2 +1,2 @@
-# Databyte-Task_1
+# Databyte-Tasks
 Data visualisation using python (matplotlib)
